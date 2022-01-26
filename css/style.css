@@ -1,0 +1,25 @@
+* {
+    background-color: black;
+}
+img {
+    width: 400px;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(233, 10, 10);
+    font-family: 'Bangers', cursive;;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(233, 10, 10);
+}
+
+font {
+    text-align: center;
+}
